@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MeuPrime_Admin>
+            <active>true</active>
+            <codePool>local</codePool>
+        </MeuPrime_Admin>
+    </modules>
+</config>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <controller_action_predispatch>
+        <observers>
+            <meuprime_admin_capture_looid_layout>
+                <type>singleton</type>
+                <class>meuprime_admin/observer</class>
+                <method>captureLooid</method>
+            </meuprime_admin_capture_looid_layout>
+        </observers>
+    </controller_action_predispatch>
+</layout>
